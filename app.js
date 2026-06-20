@@ -1,5 +1,4 @@
-const API_URL = "AKfycbxfv6ZzffSGIbP8HyBS2GzBmjVhZCF41i5SZVo0GKuIK4Yi0JJH8Bci54Jz9GL-pEeGJw
-";
+const API_URL = "https://script.google.com/macros/s/AKfycbxfv6ZzffSGIbP8HyBS2GzBmjVhZCF41i5SZVo0GKuIK4Yi0JJH8Bci54Jz9GL-pEeGJw/exec";
 
 let currentBagId = "";
 
